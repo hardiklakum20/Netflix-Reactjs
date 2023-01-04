@@ -1,0 +1,657 @@
+@media only screen and (max-width:600px) {
+   .b-img img{
+      width: 580px !important;
+   }
+   .logo img{
+    margin-left: -1rem !important;
+    margin-top: -65rem !important;
+    width: 100px !important;
+   }
+   .language{
+    margin-top: -33rem !important;
+    margin-left: 5rem !important;
+    position: absolute;
+    width: 10% !important;
+   }
+   .language select{
+    z-index: 5;
+   }
+   .sign{
+    margin-left: 470px !important;
+    margin-top: -1070px !important;
+    width: 70px !important;
+    height: 33px !important;
+    font-size: 14px !important;
+   }
+   .text{
+    margin-top: -450px !important;
+   }
+   .text h1{
+    font-size: 40px !important;
+   }
+   .text h3{
+        font-size: 22px !important;
+   }
+   .text p{
+    font-size: 18px !important;
+    width: 70vh !important;
+    margin-left: 50px !important;
+   }
+   .text input{
+    height: 8vh !important;
+    width: 80vh !important;
+    margin-left: -25px !important;
+   }
+   .text button{
+        width: 25vh !important;
+        height: 8vh !important;
+        margin-top: 70px !important;
+        align-items: center;
+        margin-left: -250px !important;
+   }
+   .border{
+    margin-top: 2.2rem !important;
+    width: 100% !important;
+   }
+   .main-row{
+    width: 104.3% !important;
+    height: 50% !important;
+    display: block !important;
+   }
+   .main-row .left h1{
+        font-size: 32px !important;
+        margin-top: 0px !important;
+        width: 60vh !important;
+        text-align: center !important;
+        margin-left: 100px !important;
+        padding-top: 30px !important;
+   }
+   .main-row .left h5{
+    font-size: 18px !important;
+    width: 85vh !important;
+    margin-left: 20px !important;
+    text-align: center;
+    padding-bottom: 15px !important;
+   }
+   .main-row .right{
+    width: 100% !important;
+   }
+   .main-row .right img{
+        height: 60vh !important;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+  }
+   .main-row .right video{
+    width: 53% !important;
+    height: 38vh !important;
+    margin-top: 50px !important;
+    margin-left: -380px !important;
+   }
+   .border2{
+    width: 100% !important;
+   }
+   .download{
+        width: 50vh !important;
+        height: 12vh !important;
+        margin-top: -115px !important;
+        margin-left: 130px !important;
+   }
+   .download .dow-img{
+    margin-left: -30px !important;
+    width: 150% !important;
+   }
+   .download .dow-img img{
+    height: 9vh !important;
+    width: 120% !important;
+    margin-left: 35px !important;
+   }
+   .download .dow-text{
+        margin-top: 2px !important;
+        width: 60% !important;
+        margin-left: 45px !important;
+   }
+   .download .dow-animation{
+        margin-left: 190px !important;
+        margin-top: -5px !important;
+   }
+    .down-border{
+        margin-top: -10px !important;
+   }
+   .main-row .right .watch{
+        width: 45% !important;
+        margin-left: -360px !important;
+        margin-top: 7px !important;
+   }
+   .main-row .right .child{
+        margin-left: 60px !important;
+   }
+   .main-freq{
+    width: 96% !important;
+   }
+   .faq-list{
+    margin-left: -170px !important;
+   }
+   .faq-list button{
+    width: 65% !important;
+    font-size: 20px !important;
+   }
+   .faq-list span{
+    width: 65% !important;
+   }
+   .faq-list .one i{
+        margin-top: -50px !important;
+        margin-left: 200px !important;
+   }
+   .faq-list .two i{
+    margin-top: 0px !important;
+    margin-left: 75px !important;
+   }
+   .faq-list .three i{
+    margin-top: 2px !important;
+    margin-left: 164px !important;
+   }
+   .faq-list .four i{
+    margin-left: 188px !important;
+   }
+   .faq-list .five i{
+    margin-top: 2px !important;
+    margin-left: 76px !important;
+   }
+   .faq-list .six i{
+    margin-top: 2px !important;
+    margin-left: 118px !important;
+   }
+   .footer{
+    width: 96% !important;
+   }
+}
+@media only screen and (max-width: 400px){
+    .b-img img{
+        width: 100% !important;
+        height: 90vh !important;
+     }
+     .logo img{
+      margin-left: 0.1rem !important;
+      margin-top: -61rem !important;
+      width: 30% !important;
+      height: 10% !important;
+      /* height: 18% !important; */
+     }
+     .language{
+      margin-top: -33rem !important;
+      margin-left: 5rem !important;
+      position: absolute;
+      width: 10% !important;
+     }
+     .language select{
+      z-index: 5;
+     }
+     .sign{
+      margin-left: 300px !important;
+      margin-top: -1030px !important;
+      width: 70px !important;
+      height: 33px !important;
+      font-size: 14px !important;
+     }
+     .text{
+      margin-top: -450px !important;
+     }
+     .text h1{
+      font-size: 27px !important;
+     }
+     .text h3{
+          font-size: 20px !important;
+     }
+     .text p{
+      font-size: 15px !important;
+      width: 50vh !important;
+      margin-left: 30px !important;
+     }
+     .text input{
+      height: 8vh !important;
+      width: 60vh !important;
+      margin-left: 2px !important;
+     }
+     .text button{
+          width: 25vh !important;
+          height: 8vh !important;
+          margin-top: 70px !important;
+          align-items: center;
+          margin-left: -170px !important;
+     }
+     .border{
+      margin-top: 4.9rem !important;
+      width: 100% !important;
+     }
+     .main-row{
+      width: 106.8% !important;
+      height: 50% !important;
+      display: block !important;
+     }
+     .main-row .left h1{
+          font-size: 32px !important;
+          margin-top: 0px !important;
+          width: 60vh !important;
+          text-align: center !important;
+          margin-left: 10px !important;
+          padding-top: 30px !important;
+     }
+     .main-row .left h5{
+      font-size: 18px !important;
+      width: 85vh !important;
+      margin-left: -65px !important;
+      text-align: center;
+      padding-bottom: 15px !important;
+     }
+     .main-row .right{
+      width: 100% !important;
+     }
+     .main-row .right img{
+          height: 45vh !important;
+          margin-left: 0px !important;
+          margin-top: 0px !important;
+    }
+     .main-row .right video{
+      width: 50% !important;
+      height: 45vh !important;
+      margin-top: -15px !important;
+      margin-left: -242px !important;
+     }
+     .border2{
+      width: 100% !important;
+     }
+     .download{
+          width: 50vh !important;
+          height: 12vh !important;
+          margin-top: -80px !important;
+          margin-left: 30px !important;
+     }
+     .download .dow-img{
+      margin-left: -30px !important;
+      width: 150% !important;
+     }
+     .download .dow-img img{
+      height: 9vh !important;
+      width: 120% !important;
+      margin-left: 35px !important;
+     }
+     .download .dow-text{
+          margin-top: 2px !important;
+          width: 60% !important;
+          margin-left: 45px !important;
+     }
+     .download .dow-animation{
+          margin-left: 190px !important;
+          margin-top: -5px !important;
+     }
+      .down-border{
+          margin-top: -10px !important;
+     }
+     .main-row .right .watch{
+          width: 46% !important;
+          margin-left: -232px !important;
+          margin-top: -45px !important;
+     }
+     .main-row .right .child{
+          margin-left: 50px !important;
+     }
+     .main-freq{
+      width: 94% !important;
+     }
+     .faq-list{
+      margin-left: -240px !important;
+     }
+     .faq-list button{
+      width: 71% !important;
+      font-size: 20px !important;
+     }
+     .faq-list span{
+      width: 71% !important;
+     }
+     .faq-list .one i{
+         margin-left: 170px !important;
+     }
+     .faq-list .two i{
+      /* margin-top: 0px !important; */
+      margin-left: 45px !important;
+     }
+     .faq-list .three i{
+      margin-top: 2px !important;
+      margin-left: 134px !important;
+     }
+     .faq-list .four i{
+      margin-left: 158px !important;
+     }
+     .faq-list .five i{
+      margin-top: 2px !important;
+      margin-left: 46px !important;
+     }
+     .faq-list .six i{
+      margin-top: 2px !important;
+      margin-left: 88px !important;
+     }
+     .text2 p{
+        width: 51vh !important;
+        margin-left: 15px !important;
+        /* font-size: 10px !important; */
+     }
+     .text2 input{
+        width: 60vh !important;
+        height: 8vh;
+        margin-left: -6px !important;
+     }
+     .text2 button{
+        margin-top: 65px;
+        width: 22vh !important;
+        height: 8vh !important;
+        margin-left: -150px !important;
+     }
+     .footer{
+      width: 94% !important;
+     }   
+     .footer h5{
+        font-size: 15px !important;
+        margin-left: -28px !important;
+     }
+     .footer h6{
+        width: 26vh !important;
+        margin-left: -30px !important;
+     }
+     .footer .foot{
+        display: flex !important;
+     }
+     .foot2{
+        margin-left: 90px !important;
+     }
+     .foot3{
+        margin-top: -265px !important;
+     }
+     .foot4{
+        margin-top: -262px;
+        margin-left: 90px;
+     }
+     .foot-button{
+        margin-top: 150px !important;
+     }
+     .foot-button select{
+        margin-left: -30px !important;
+     }
+}
+
+
+
+
+
+
+.b-img img{
+    height: 100vh;
+    width: 103%;
+    margin-left: -1.5%; 
+
+}
+.logo img{
+    height: 17% ;
+    width: 17% ;
+    margin-top: -75rem;
+    margin-left: -5rem;
+    
+}
+.language{
+    margin-top: -39.5rem;
+    /* margin-left: 65rem; */
+    margin-left: 1rem;
+    width: 10%;
+    /* padding: 15px; */
+}
+.language select{
+    padding: 6px;
+    font-size: 17px;
+    margin-left: 65rem;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    font-weight: bolder;
+}
+.language option{
+    background-color: gray;
+    color: white;
+}
+.sign{
+    margin-left: 75rem;
+    margin-top: -4rem;
+}
+.text{
+    margin-top: 130px;
+}
+.text h1{
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.text h3{
+    color: white;
+    font-weight: bolder;
+}
+
+.text p{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.text input{
+    padding: 15px;
+    width: 45%;
+    margin-left: -20%;
+}
+.text button{
+    background-color: red;
+    color: white;
+    width: 40%;
+    border: 0px;
+    height: 3.6rem
+}
+.text h4{
+    margin-left: 46%; 
+    margin-top: -3.6rem;
+}
+.border{
+    border: 6px solid #222 !important;
+    margin-top: 5.5rem;
+    width: 103%;
+    margin-left: -1.5%;
+}
+.main-row{
+    background-color: black;
+    height: 80vh;
+    width: 106.9%;
+    margin-left: -3.4%;
+}
+
+.main-row .left h1 {
+    color: white;
+    font-size: 50px;
+}
+.main-row .left h5{
+    color: white;
+    font-size: 25px;
+}
+.main-row .right img{
+    height: 50%;
+    width: 80%;
+    position: relative;
+    z-index: 4;
+}
+.main-row .right video{
+    width: 27.3%;
+    margin-top: 80px;
+    margin-left: -440px;  
+    position: absolute;
+}
+.border2{
+    border: 6px solid #222 !important;
+    width: 103%;
+    margin-left: -1.5%;
+}
+.download{
+    height: 13%;
+    width: 25%;
+    position: absolute;
+    background-color: #000;
+    border: 2px solid gray;
+    box-shadow: 0 0 2em 0 #000;
+    border-radius: 0.75rem;
+    z-index: 5;
+    margin-top: -130px;
+    margin-left: 150px;
+    padding: 10px;
+}
+.download .dow-img img{
+    height: 100%;
+    width: 120%;
+}
+.download .dow-text{
+    position: absolute;
+    margin-top: 8px;
+    color: white;
+    margin-left: 60px;
+    width: 20vh;
+}
+.download .dow-text p{
+    margin-top: -10px;
+    color: #0071eb;
+}
+.download .dow-animation{
+    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif) 50% no-repeat;
+    background-size: 100%;
+    content: "";
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 3em;
+    outline: 2px solid #000;
+    outline-offset: -2px;
+    width: 3em;
+    margin-left: 220px;
+    margin-top: 5px;
+}
+.main-row .right .watch{
+    height: 30%;
+    width: 23%;
+    margin-top: 30px;
+    margin-left: -414px;
+}
+/* fraq Question start*/
+.main-freq{
+    background-color: #000;
+    width: 99.2%;
+    height: auto;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    padding: 5px;
+}
+ul li button{
+    background-color: #222;
+    color: white;
+    height: 10vh;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+    margin-left: 180px;
+    width: 110vh;
+    text-align: left;
+}
+button i{
+    margin-left: 350px;
+}
+.one i{
+    margin-left: 487px;
+}
+.three i{
+    margin-left: 451px;
+    margin-top: 5px;
+    position: absolute;
+}
+.four i{
+    margin-left: 473px;
+}
+.six i{
+    margin-left: 400px;
+    margin-top: 5px;
+    position: absolute;
+}
+.faq-answer span{
+    display: inline-block;
+}
+
+span{
+    background-color: #222;
+    color: white;
+    font-size: 20px;
+    width: 110vh;
+    margin-left: 180px;
+    padding: 20px;
+}
+.text2{
+    margin-top: 70px;
+}
+
+.text2 p{
+    color: white;
+    /* font-weight: bold; */
+    font-size: 18px;
+    margin-top: 40px;
+}
+.text2 input{
+    padding: 15px;
+    width: 40%;
+    margin-left: -18%;
+}
+.text2 button{
+    background-color: red;
+    color: white;
+    width: 38%;
+    border: 0px;
+    height: 3.6rem;
+    margin-left: -7%;
+
+}
+.text2 h4{
+    margin-left: 46%; 
+    margin-top: -3.6rem;
+}
+
+
+/*fraq Question End*/
+
+ .main-foot{
+    width: 99.2%;
+    height: auto;
+    background-color: #000;
+}
+.main-foot h5{
+    color: #737373;
+    
+} 
+.main-foot a{
+    text-decoration: none;
+    color: #737373;
+}
+.main-foot a:hover{
+    text-decoration: underline;
+}
+.language2{
+    background-color: transparent;
+    margin-left: -25px;
+}
+.language2 select{
+    background-color: black;
+    color: #737373;
+    padding: 5px;
+}
+.main-foot h6{
+    color: #737373;
+}

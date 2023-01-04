@@ -1,0 +1,62 @@
+.background{
+    /* position: relative; */
+    height: 150vh !important;
+    width: 103%;
+    margin-left: -1.5%;
+}
+.sign_logo{
+   margin-top: -75%;
+   /* margin-left: -95%; */
+   /* margin-top: -3%; */
+   
+}
+.sign_back{
+    margin-top: -68%;
+    opacity: 0.99;
+    background-color: rgb(0, 0,0,0.75);
+    width: auto;
+    height: auto;
+    margin-left: 25%;
+}
+.sign_back input{
+    background-color: #333;
+    border: 0;
+    /* opacity: 1; */
+}
+.sign_back input::placeholder{
+    color: #8c8c8c;
+}
+.sign_back label{
+    color: #8c8c8c;
+}
+.sign_back a{
+    color: #8c8c8c;
+    text-decoration: none;
+}
+.sign_back a:hover{
+    text-decoration: underline;
+}
+.sign_back h6{
+    color: #8c8c8c;
+}
+.sign_back p{
+    color: #8c8c8c;
+}
+.footer{
+    opacity: 0.99;
+    background-color: rgb(0, 0,0,0.75);
+    margin-top: -16.5%;
+    color: #8c8c8c;
+    width: 103%;
+    margin-left: -1.5%;
+}
+.languag3{
+    margin-top: 1%;
+}
+.languag3 select{
+    background-color: black;
+    color: #8c8c8c;
+    border: 1px solid #8c8c8c;
+    /* margin-left: -23px; */
+    margin-left: -10%;
+}
