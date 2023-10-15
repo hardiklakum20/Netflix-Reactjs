@@ -1,7 +1,7 @@
 import React, { Suspense,LazyExoticComponent } from 'react';
 import { lazy } from 'react';
 import "jquery-ui-dist/jquery-ui";
-import './netflix.css';
+import './index.css';
 const Netflix_header = lazy(()=>import('./Netflix Files/1 Netflix_header'));
 const Enjoy_tv = lazy(()=>import('./Netflix Files/2 Enjoy_tv'));
 const Download = lazy(()=>import('./Netflix Files/3 Download'));
